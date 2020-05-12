@@ -1,0 +1,48 @@
+header {
+    color:black;
+    font-family: arial;
+}
+
+#logo {
+    display: block;
+    height: 92px;
+    width: 272px;
+    padding-top: 109px;
+    margin: auto;
+    
+}
+
+.google-search {
+    display: block;
+    margin: auto;
+    width: 300px;
+    margin-top: 20px;
+    border-radius: 18px;
+}
+
+ul {
+    list-style-type: none;
+    text-align: right;
+}
+
+li {
+    display: inline;
+    padding-right: 15px;
+}
+
+.buttons {
+    display: inline-block;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.container {
+    text-align: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 0em;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
